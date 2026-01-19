@@ -4,7 +4,7 @@
 #include "array.h"
 
 int main() {
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "UTF-8");
 
     puts("Лабораторные работы 11, 14, 16, 17 и ДЗ ===\n");
 
